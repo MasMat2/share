@@ -1,0 +1,2 @@
+https://www.tutorialspoint.com/c_standard_library/math_h.htm
+https://stackoverflow.com/questions/1860159/how-to-escape-the-percent-sign-in-cs-printf
